@@ -1,63 +1,61 @@
-<h1 align="center">Hi 👋, I'm Jaiyanth B</h1>
+<div align="center">
 
-<h3 align="center">
-Final Year B.Tech Computer Science & Business Systems Student | Python Developer | AI Enthusiast
-</h3>
+# Hi 👋 I'm Jaiyanth B
 
-<p align="center">
-Passionate about solving real-world problems using Python, AI, Machine Learning, and Full Stack Development.
-Currently preparing for Software Engineering and AI roles.
-</p>
+### Final Year B.Tech Computer Science & Business Systems Student
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaiyan-th&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+### Python Developer • AI Enthusiast • Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Building+Projects+Every+Day;Future+Software+Engineer" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/jaiyan-th/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaiyanthofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://jaiyanth-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=jaiyan-th&style=for-the-badge&color=6C63FF" />
+
+</div>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,100:8A2BE2&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35"/>
 
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech in Computer Science & Business Systems
-- 💻 Passionate about Python Development
-- 🤖 Currently learning Artificial Intelligence & Machine Learning
-- 📚 Strengthening Data Structures & Algorithms
-- 🌱 Exploring Backend Development
-- 🎯 Aspiring Software Engineer and AI Developer
-- ⚡ I enjoy building practical solutions to real-world problems
+🎓 Final Year B.Tech Computer Science & Business Systems
+
+💻 Passionate Python Developer
+
+🤖 Learning Artificial Intelligence & Machine Learning
+
+📚 Improving Data Structures & Algorithms
+
+🌱 Exploring Backend Development
+
+🎯 Preparing for Software Engineering & AI Roles
+
+⚡ Love building practical projects that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming Languages
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql,html,css,react,nodejs,tailwind,git,github,vscode,linux,postman"/>
 
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
-</p>
-
-### 🤖 AI & Data Science
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-- Machine Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Pandas
-- NumPy
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
@@ -75,19 +73,20 @@ Currently preparing for Software Engineering and AI roles.
 
 ## 🎯 2026 Goals
 
-- ✅ Solve 500+ DSA Problems
-- 🚀 Build impactful real-world applications
-- 📚 Master Python & SQL
-- 🤖 Strengthen AI & Machine Learning skills
+- 🚀 Solve 500+ DSA Problems
+- 🤖 Master AI & Machine Learning
+- 💻 Build Production-Level Projects
 - 🌐 Contribute to Open Source
-- 💼 Secure a Software Engineer role
+- 💼 Secure a Software Engineer Role
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=tokyonight" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -95,35 +94,21 @@ Currently preparing for Software Engineering and AI roles.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiyan-th&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jaiyan-th/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:jaiyanthofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://jaiyanth-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiyan-th&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 💡 Quote
+## 💬 Quote
 
-> **"Consistency beats intensity. Learn. Build. Improve. Repeat."**
+> **"Consistency creates mastery. Every commit is a step toward becoming a better engineer."**
 
 ---
 
-<h3 align="center">⭐ Thank you for visiting my GitHub profile! ⭐</h3>
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+</div>
