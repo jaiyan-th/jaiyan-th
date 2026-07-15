@@ -32,24 +32,24 @@ Currently preparing for Software Engineering and AI roles.
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
 </p>
 
 ### 🤖 AI & Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 - Machine Learning
-- NLP
-- LLM Integration
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Pandas
 - NumPy
@@ -57,7 +57,7 @@ Currently preparing for Software Engineering and AI roles.
 ### 🛠️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ Currently preparing for Software Engineering and AI roles.
 
 - Data Structures & Algorithms
 - Advanced Python
-- SQL Optimization
+- SQL
 - Machine Learning
 - Backend Development
 - System Design
@@ -84,34 +84,36 @@ Currently preparing for Software Engineering and AI roles.
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
+---
+
+## 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiyan-th&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/jaiyan-th/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:jaiyanthofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://jaiyanth-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </p>
@@ -124,6 +126,4 @@ Currently preparing for Software Engineering and AI roles.
 
 ---
 
-<h3 align="center">
-⭐ Thank you for visiting my GitHub profile! ⭐
-</h3>
+<h3 align="center">⭐ Thank you for visiting my GitHub profile! ⭐</h3>
