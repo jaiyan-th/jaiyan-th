@@ -87,13 +87,10 @@ Currently preparing for Software Engineering and AI roles.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=tokyonight" />
