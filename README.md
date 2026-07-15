@@ -42,52 +42,67 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql"/>
-</p>
-
-## 🌐 Frontend Development
+### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-</p>
-
-## ⚙️ Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-## 🤖 AI & Data Science
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-- Machine Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Pandas
-- NumPy
-
-## 🗄️ Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-## 🛠 Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
 </p>
 
 ---
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+- Machine Learning
+- Natural Language Processing (NLP)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Prompt Engineering
+- Large Language Models (LLMs)
+
+---
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+**Worked With:**
+- PostgreSQL (Supabase)
+- PostgreSQL (Neon)
+- Vector Database (Qdrant)
+
+---
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+**Other Tools**
+- Power BI
+- REST APIs
+- Groq API
+- Mistral AI
 
 # 📚 Currently Learning
 
