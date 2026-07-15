@@ -41,69 +41,73 @@
 - ⚡ I enjoy building practical software that solves real-world problems.
 
 ---
-
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-- Machine Learning
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Prompt Engineering
-- Large Language Models (LLMs)
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
 </p>
-
-**Worked With:**
-- PostgreSQL (Supabase)
-- PostgreSQL (Neon)
-- Vector Database (Qdrant)
 
 ---
 
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
-**Other Tools**
-- Power BI
-- REST APIs
-- Groq API
-- Mistral AI
-
+---
 # 📚 Currently Learning
 
 - Data Structures & Algorithms
