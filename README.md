@@ -5,8 +5,12 @@ Final Year B.Tech Computer Science & Business Systems Student | Python Developer
 </h3>
 
 <p align="center">
-Passionate about solving real-world problems through Python, AI, Machine Learning, and Full Stack Development.
+Passionate about solving real-world problems using Python, AI, Machine Learning, and Full Stack Development.
 Currently preparing for Software Engineering and AI roles.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaiyan-th&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -15,49 +19,46 @@ Currently preparing for Software Engineering and AI roles.
 
 - 🎓 Final Year B.Tech in Computer Science & Business Systems
 - 💻 Passionate about Python Development
-- 🤖 Learning Artificial Intelligence & Machine Learning
-- 📚 Improving Data Structures & Algorithms
+- 🤖 Currently learning Artificial Intelligence & Machine Learning
+- 📚 Strengthening Data Structures & Algorithms
 - 🌱 Exploring Backend Development
-- 🎯 Goal: Become a Software Engineer and AI Developer
-- ⚡ Love building practical projects that solve real-world problems
+- 🎯 Aspiring Software Engineer and AI Developer
+- ⚡ I enjoy building practical solutions to real-world problems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- TypeScript
-- SQL
+### 💻 Programming Languages
 
-### Web Development
-- HTML
-- CSS
-- React
-- Tailwind CSS
-- Node.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
+</p>
 
-### AI & Data
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
+</p>
+
+### 🤖 AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
 - Machine Learning
 - NLP
 - LLM Integration
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - Pandas
 - NumPy
 
-### Databases
-- MySQL
-- SQL
+### 🛠️ Tools & Platforms
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Linux
-- Postman
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
 
 ---
 
@@ -86,8 +87,8 @@ Currently preparing for Software Engineering and AI roles.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
@@ -102,16 +103,30 @@ Currently preparing for Software Engineering and AI roles.
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn profile)*
-- 📧 Email: *(Add your email address)*
-- 🌍 Portfolio: *(Add your portfolio website if available)*
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jaiyan-th/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaiyanthofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://jaiyanth-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 💡 Quote
 
-> *"Consistency beats intensity. Learn, Build, Improve, Repeat."*
+> **"Consistency beats intensity. Learn. Build. Improve. Repeat."**
 
 ---
 
-⭐ **Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
+<h3 align="center">
+⭐ Thank you for visiting my GitHub profile! ⭐
+</h3>
