@@ -184,21 +184,6 @@ I enjoy turning ideas into practical software.
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app?user=jaiyan-th&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 💻 Coding Profiles
 
 <div align="center">
