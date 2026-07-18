@@ -184,6 +184,16 @@ I enjoy turning ideas into practical software.
 
 ---
 
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+
+</div>
+
+---
+
 # 💻 Coding Profiles
 
 <div align="center">
