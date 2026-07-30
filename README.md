@@ -8,7 +8,7 @@
 <h3 align="center">🎓 Final Year B.Tech Computer Science & Business Systems Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=4F8CFF&center=true&vCenter=true&width=750&lines=Software+Engineer+%7C+Python+%26+Backend+Developer;AI+%26+LLM+Application+Developer;Building+Scalable+Backend+Systems;Always+Learning+%26+Building+Impactful+Software"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=4F8CFF&center=true&vCenter=true&width=850&lines=Software+Engineer+%7C+Python+%26+Backend+Developer;AI+%26+LLM+Application+Developer;Building+Scalable+Backend+Systems;Always+Learning+%26+Building+Impactful+Software"/>
 </p>
 
 <br/>
@@ -85,17 +85,21 @@
 
 <br/>
 
-# 📊 GitHub Stats & Streak
+# 📊 Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      🐍<br/><b>Primary Stack</b><br/>Python • FastAPI • PostgreSQL
+    </td>
+    <td width="33%" align="center">
+      🤖<br/><b>Focus Area</b><br/>AI / LLM Applications
+    </td>
+    <td width="33%" align="center">
+      📈<br/><b>Goal</b><br/>500+ DSA Problems Solved
+    </td>
+  </tr>
+</table>
 
 <br/>
 
