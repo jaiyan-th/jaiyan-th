@@ -111,10 +111,19 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
-  &nbsp;
   <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
 </p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      📦<br/><b>Public Repos</b><br/>8
+    </td>
+    <td width="50%" align="center">
+      ⭐<br/><b>Stars Earned</b><br/>14
+    </td>
+  </tr>
+</table>
 
 <br/>
 
