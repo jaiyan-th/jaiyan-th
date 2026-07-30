@@ -88,13 +88,13 @@
 # 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaib.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Jaiyanth's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
 <br/>
