@@ -1,6 +1,6 @@
 <!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="800" alt="Coding Vibe Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="800" alt="Multi Screen Analysis Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jaiyanth B</h1>
@@ -108,9 +108,34 @@
 
 <br/>
 
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
+</p>
+
+<br/>
+
+<!-- DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
+
+<br/>
+
 # 🛠️ Tech Stack
 
 <details open>
+  <summary><b>🌐 Frontend</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  </p>
+</details>
+
+<details>
   <summary><b>💻 Programming Languages</b></summary>
   <br/>
   <p align="left">
@@ -178,15 +203,6 @@
   </p>
 </details>
 
-<details>
-  <summary><b>🌐 Frontend</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  </p>
-</details>
 
 <br/>
 
