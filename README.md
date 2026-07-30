@@ -1,6 +1,6 @@
 <!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800" alt="Cozy Pixel Art Coding Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="800" alt="Coding Vibe Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jaiyanth B</h1>
