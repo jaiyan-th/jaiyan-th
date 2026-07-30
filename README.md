@@ -1,6 +1,6 @@
 <!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/images/pusheen-flying.gif" width="800" alt="Cozy Pixel Art Coding Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800" alt="Cozy Pixel Art Coding Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jaiyanth B</h1>
