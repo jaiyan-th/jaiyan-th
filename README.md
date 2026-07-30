@@ -1,6 +1,6 @@
-<!-- TOP LOFI PIXEL ART DEVELOPER BANNER (100% Guaranteed Working GIF) -->
+<!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxc2x5MnE3YmZ4dHZpMnV2cTY0bm1uY3ZjcTBrcDFldHRwOGJ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VAc4ttd/giphy.gif" width="800" alt="Cozy Pixel Art Developer Room" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/images/pusheen-flying.gif" width="800" alt="Cozy Pixel Art Coding Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jaiyanth B</h1>
@@ -85,17 +85,16 @@
 
 <br/>
 
-
-# 📊 GitHub Analytics & Streak
+# 📊 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaib.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Jaiyanth's GitHub Stats" height="165" />
   &nbsp;
   <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaib.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most Used Languages" />
 </p>
 
 <br/>
