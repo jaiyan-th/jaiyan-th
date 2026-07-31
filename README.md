@@ -111,11 +111,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Total Contributions & Commits" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages by Repo" width="35%" />
+  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Commit Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiyan-th&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=58a6ff&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
