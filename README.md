@@ -111,9 +111,11 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jaiyanth's GitHub Stats" height="165" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=jaiyan-th&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="165" />
+  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Total Contributions & Commits" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api/top-langs/?username=jaiyan-th&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" alt="Top Languages by Repo" width="35%" />
 </p>
 
 <br/>
