@@ -1,6 +1,6 @@
 <!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="800" alt="Multi Screen Analysis Banner" />
+  <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" alt="Developer Banner" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Jaiyanth B</h1>
@@ -108,33 +108,9 @@
 
 <br/>
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Commit Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiyan-th&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=58a6ff&border_radius=10" alt="GitHub Streak" width="48%" />
-</p>
-
-<br/>
-
-<!-- DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
-
-<br/>
-
 # 🛠️ Tech Stack
 
 <details open>
-  <summary><b>🌐 Frontend</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  </p>
-</details>
-
-<details>
   <summary><b>💻 Programming Languages</b></summary>
   <br/>
   <p align="left">
@@ -145,6 +121,16 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌐 Frontend</b></summary>
+  <br/>
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   </p>
 </details>
 
@@ -238,6 +224,20 @@
   <a href="https://www.hackerrank.com/profile/jaiyanth" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
+</p>
+
+<br/>
+
+<!-- DIVIDER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
+
+<br/>
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" alt="Commit Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiyan-th&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=58a6ff&border_radius=10" alt="GitHub Streak" width="48%" />
 </p>
 
 <br/>
