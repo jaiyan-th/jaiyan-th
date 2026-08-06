@@ -324,14 +324,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=false&include_all_commits=true&count_private=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&theme=github_dark"
-    alt="Jaiyanth B Total Commits"
-    width="55%"
-  />
-</p>
-
 <br/>
 
 <!-- DIVIDER -->
