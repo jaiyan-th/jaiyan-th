@@ -1,4 +1,5 @@
 <!-- TOP DEVELOPER BANNER (working GitHub-hosted GIF) -->
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="800" alt="Developer Banner" />
 </p>
@@ -14,6 +15,7 @@
 <br/>
 
 <!-- CONNECT BADGES -->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jaiyan-th/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -39,11 +41,12 @@
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 🚀 About Me
+🚀 About Me
 
 <table align="center" width="100%">
   <tr>
@@ -81,11 +84,12 @@
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 📊 Snapshot
+📊 Snapshot
 
 <table align="center" width="100%">
   <tr>
@@ -104,11 +108,12 @@
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <details open>
   <summary><b>💻 Programming Languages</b></summary>
@@ -188,33 +193,41 @@
   </p>
 </details>
 
-
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 🌱 Currently Learning
+🌱 Currently Learning
 
-- 📚 **Data Structures & Algorithms**
-- 🐍 **Advanced Python & Async Architectures**
-- ⚡ **FastAPI & Enterprise Backend Systems**
-- 🤖 **Machine Learning & Agentic LLM Applications**
-- 🗄️ **SQL Performance Tuning & Indexing**
-- 🏗️ **System Design & Microservices**
-- ☁️ **Docker Containerization & CI/CD Pipelines**
-- 🧱 **Object-Oriented Programming (OOP) & Clean Code**
+📚 Data Structures & Algorithms
+
+🐍 Advanced Python & Async Architectures
+
+⚡ FastAPI & Enterprise Backend Systems
+
+🤖 Machine Learning & Agentic LLM Applications
+
+🗄️ SQL Performance Tuning & Indexing
+
+🏗️ System Design & Microservices
+
+☁️ Docker Containerization & CI/CD Pipelines
+
+🧱 Object-Oriented Programming (OOP) & Clean Code
 
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 💻 Coding Profiles
+💻 Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/jaiyan-th/" target="_blank">
@@ -229,47 +242,59 @@
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 📈 GitHub Stats
+📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-chi-opal-14.vercel.app/api?username=jaiyan-th&show_icons=true&hide_border=true&count_private=true&hide=stars,prs,issues,contribs&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10&cache_seconds=0" alt="Commit Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaiyan-th&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=58a6ff&border_radius=10&cache_seconds=0" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Jaiyanth's GitHub statistics" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=jaiyan-th&theme=github-dark-blue&hide_border=true" alt="Jaiyanth's GitHub contribution streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaiyan-th&theme=github-compact&hide_border=true&area=true" alt="Jaiyanth's GitHub contribution activity graph" width="98%" />
 </p>
 
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
-# 🎯 Career Goals
+🎯 Career Goals
 
-- 🚀 Secure a **Software Engineer / Backend Developer** role
-- 🤖 Build production-grade **AI-powered applications & intelligent agents**
-- 🐍 Master **Python Backend Architecture & High-Performance APIs**
-- 🌍 Actively contribute to **Open Source software**
-- 📈 Solve **500+ LeetCode / Data Structure & Algorithm problems**
-- 📚 Continuously learn, build, and optimize software systems
+🚀 Secure a Software Engineer / Backend Developer role
+
+🤖 Build production-grade AI-powered applications & intelligent agents
+
+🐍 Master Python Backend Architecture & High-Performance APIs
+
+🌍 Actively contribute to Open Source software
+
+📈 Solve 500+ LeetCode / Data Structure & Algorithm problems
+
+📚 Continuously learn, build, and optimize software systems
 
 <br/>
 
 <!-- DIVIDER -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,20,24,30"/>
 
 <br/>
 
 <div align="center">
 
-### Thanks for visiting my profile! ❤️
+Thanks for visiting my profile! ❤️
 
 If you find my projects interesting, consider giving them a ⭐ star and let's connect!
 
-> *"Consistency compounds. Every commit is an investment in your future."*
+"Consistency compounds. Every commit is an investment in your future."
 
 <br/>
 
