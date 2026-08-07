@@ -253,7 +253,7 @@
   <tr>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&hide=stars,prs,issues,contribs&hide_rank=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000&card_width=260"
+        src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&hide=stars,prs,issues,contribs&hide_rank=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000&card_width=210"
         alt="Jaiyanth B Total Commits"
       />
     </td>
