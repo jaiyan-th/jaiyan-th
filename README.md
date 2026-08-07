@@ -251,12 +251,12 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&hide=stars,prs,issues,contribs&hide_rank=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000&card_width=440"
+    src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&hide=stars,prs,issues,contribs&hide_rank=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000&card_width=440"
     alt="Jaiyanth B GitHub Stats"
     width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=jaiyan-th&hide_border=true&border_radius=10&hide_longest_streak=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&card_width=440
+    src="https://streak-stats.demolab.com?user=jaiyan-th&hide_border=true&border_radius=10&hide_longest_streak=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=3B82F6&dates=ffffff"
     alt="Jaiyanth B GitHub Contributions and Current Streak"
     width="48%"
   />
