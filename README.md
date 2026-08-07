@@ -251,9 +251,14 @@
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=github-dark-blue&hide_border=true&border_radius=10&include_all_commits=true"
+    alt="Jaiyanth B GitHub Stats"
+    width="48%"
+  />
+  <img
     src="https://streak-stats.demolab.com?user=jaiyan-th&theme=github-dark-blue&hide_border=true&border_radius=10&hide_longest_streak=true"
     alt="Jaiyanth B GitHub Contributions and Current Streak"
-    width="65%"
+    width="48%"
   />
 </p>
 
