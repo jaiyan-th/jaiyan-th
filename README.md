@@ -251,7 +251,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jaiyan-th&show_icons=true&theme=github-dark-blue&hide_border=true&border_radius=10&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&show_icons=true&theme=github-dark-blue&hide_border=true&border_radius=10&include_all_commits=true"
     alt="Jaiyanth B GitHub Stats"
     width="48%"
   />
