@@ -21,7 +21,7 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.README_TOKEN }}
       - name: Fix commit stats spacing
-        run: sed -i 's/x="199.01"/x="80"/' profile/stats.svg
+        run: sed -i 's/x="199.01"/x="70"/' profile/stats.svg
       - name: Generate streak stats card
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
