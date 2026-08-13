@@ -252,16 +252,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-stats-extended.vercel.app/api?username=jaiyan-th&hide=stars,prs,issues,contribs&hide_rank=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000&card_width=210"
-        alt="Jaiyanth B Total Commits"
-      />
+      <img src="./profile/stats.svg" alt="Jaiyanth B Total Commits" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img
-        src="https://streak-stats.demolab.com?user=jaiyan-th&hide_border=true&border_radius=10&hide_longest_streak=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=3B82F6&dates=ffffff&card_width=420"
-        alt="Jaiyanth B GitHub Contributions and Current Streak"
-      />
+      <img src="./profile/streak.svg" alt="Jaiyanth B GitHub Contributions and Current Streak" />
     </td>
   </tr>
 </table>
