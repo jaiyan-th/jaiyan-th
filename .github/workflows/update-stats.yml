@@ -1,0 +1,41 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/update-stats.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate commit stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&hide=stars,prs,issues,contribs&hide_rank=true&title_color=3B82F6&text_color=ffffff&icon_color=3B82F6&hide_border=true&border_radius=10&include_all_commits=true&bg_color=00000000'
+          path: profile/stats.svg
+          token: ${{ secrets.README_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: 'user=${{ github.repository_owner }}&hide_border=true&border_radius=10&hide_longest_streak=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=3B82F6&dates=ffffff'
+          path: profile/streak.svg
+          token: ${{ secrets.README_TOKEN }}
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats.svg profile/streak.svg
+          git commit -m "Update stats cards" || exit 0
+          git push
