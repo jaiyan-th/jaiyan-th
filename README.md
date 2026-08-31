@@ -255,7 +255,7 @@
       <img src="./profile/stats.svg" alt="Jaiyanth B Total Commits" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="./profile/streak.svg" alt="Jaiyanth B GitHub Contributions and Current Streak" />
+      <img src="./profile/streak.svg" alt="Jaiyanth B GitHub Contributions, Current Streak and Longest Streak" />
     </td>
   </tr>
 </table>
